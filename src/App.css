@@ -1,38 +1,95 @@
-.App {
-  text-align: center;
+.Nav {
+  background-color: #fff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.custome-link {
+  line-height: 3rem !important;
+  color: #210826 !important;
+  font-weight: 700 !important;
+  font-family: poppins, montserrat, Arial;
+  padding-left: 30px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.custome-btn {
+
+  height: 2.2rem !important;
+  /* line-height: 2.1rem; */
+  border: 1px solid #210826;
+  border-radius: 100px;
+
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.custome-container {
+  width: 80% !important;
+}
+
+.custome-h1 {
+  font-size: 34px;
+  color: #242933;
+  font-weight: 700;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.custome-title {
+  font-size: 34px;
+  color: #242933;
+  font-weight: 700;
+  margin-bottom: 20px;
+  line-height: 1.2;
+  font-family: poppins, montserrat, Aria !important;
+}
+
+.custome-para {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  line-height: 1.45;
+}
+
+.footer-para {
+  font-size: 17px;
+  font-weight: 500;
+  color: #242933;
+  margin-top: 40px;
+  text-transform: none;
+}
+
+.about-image {
+  max-width: 100%;
+  max-height: 100%;
+
+}
+
+.hero-btn {
+  margin-bottom: 2rem;
+  color: white !important;
+  min-width: 15rem;
+  background: #f05 !important;
+  border-radius: 28px !important;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  width: auto;
+}
+
+.hero-btn:hover {
+  background: #e6004d !important;
+}
+
+.movie-cards-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.movie-card {
+  width: 23%;
+  margin-bottom: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.movie-card-image {
+  width: 100%;
+  height: auto;
 }
