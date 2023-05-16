@@ -5,7 +5,8 @@ import Slider from "./Componats/Slider"
 import { About } from './Componats/About';
 import Footer from './Componats/Footer';
 import { Join } from './Componats/Join';
-import CardCarousel from './Componats/Cards';
+import Transformation from './Componats/transformation';
+
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
       <Slider />
       <About />
       <Join />
+      <Transformation />
       <Footer />
 
 
