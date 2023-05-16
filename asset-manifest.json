@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hassan-Ahmed/static/css/main.6c03a62e.css",
+    "main.js": "/Hassan-Ahmed/static/js/main.8d3e839f.js",
+    "index.html": "/Hassan-Ahmed/index.html",
+    "main.6c03a62e.css.map": "/Hassan-Ahmed/static/css/main.6c03a62e.css.map",
+    "main.8d3e839f.js.map": "/Hassan-Ahmed/static/js/main.8d3e839f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c03a62e.css",
+    "static/js/main.8d3e839f.js"
+  ]
+}
