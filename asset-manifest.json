@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Hassan-Ahmed/static/css/main.a882d506.css",
-    "main.js": "/Hassan-Ahmed/static/js/main.8d3e839f.js",
-    "index.html": "/Hassan-Ahmed/index.html",
-    "main.a882d506.css.map": "/Hassan-Ahmed/static/css/main.a882d506.css.map",
-    "main.8d3e839f.js.map": "/Hassan-Ahmed/static/js/main.8d3e839f.js.map"
+    "main.css": "/fitnes-appjk/static/css/main.a882d506.css",
+    "main.js": "/fitnes-appjk/static/js/main.8d3e839f.js",
+    "index.html": "/fitnes-appjk/index.html",
+    "main.a882d506.css.map": "/fitnes-appjk/static/css/main.a882d506.css.map",
+    "main.8d3e839f.js.map": "/fitnes-appjk/static/js/main.8d3e839f.js.map"
   },
   "entrypoints": [
     "static/css/main.a882d506.css",
